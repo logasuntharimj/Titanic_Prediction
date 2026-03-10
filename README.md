@@ -28,7 +28,6 @@ The dataset includes historical passenger information from the Titanic, with fea
   - Precision
   - Recall
   - F1 Score
-  - ROC-AUC  
 - Visualize survival predictions and feature importance.
 
 ## Tools and Libraries
